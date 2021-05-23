@@ -1,0 +1,36 @@
+div{
+		color:#FDFDFD;
+		background:#282829;
+		font-size:16px;
+		line-height:26px;
+		font-weight:100;
+		text-align:justify;
+		padding:4px 8px;
+		width:1100px;
+		margin:auto;
+		
+	}
+	h1{
+		font-size:80px;
+		color:#FFFFFF;
+		line-height:80px;
+		text-align:center;
+		background:#282829;
+		text-align:center;
+	}
+    .story{
+        font-size:32px;
+        line-height:32px;
+        font-style:italic;
+        text-align:center;
+        text-decoration:underline;
+    }
+    .list{
+    	font-size:20px;
+    	line-height:32px;
+    	font-style:italic;
+    	}
+    .magazines{
+        font-size:16px;
+        font-style:italic;
+    	}
